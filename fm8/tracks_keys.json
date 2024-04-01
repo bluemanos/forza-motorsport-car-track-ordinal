@@ -1,0 +1,474 @@
+{
+  "0": {
+    "Circuit": "WeatherTech Raceway Laguna Seca",
+    "IOC_Code": "usa",
+    "Length_in_km": 3.6,
+    "Location": "California",
+    "Track": "Full Circuit",
+    "TrackOrdinal": 0
+  },
+  "1": {
+    "Circuit": "WeatherTech Raceway Laguna Seca",
+    "IOC_Code": "usa",
+    "Length_in_km": 2.96,
+    "Location": "California",
+    "Track": "Short Circuit",
+    "TrackOrdinal": 1
+  },
+  "100": {
+    "Circuit": "Le Mans - Circuit International de la Sarthe",
+    "IOC_Code": "fra",
+    "Length_in_km": 13.63,
+    "Location": "Le Mans",
+    "Track": "Full Circuit",
+    "TrackOrdinal": 100
+  },
+  "101": {
+    "Circuit": "Le Mans - Circuit International de la Sarthe",
+    "IOC_Code": "fra",
+    "Length_in_km": 13.54,
+    "Location": "Le Mans",
+    "Track": "Old Mulsanne Circuit",
+    "TrackOrdinal": 101
+  },
+  "110": {
+    "Circuit": "Circuit de Barcelona-Catalunya",
+    "IOC_Code": "esp",
+    "Length_in_km": 4.66,
+    "Location": "Barcelona",
+    "Track": "Grand Prix Circuit",
+    "TrackOrdinal": 110
+  },
+  "111": {
+    "Circuit": "Circuit de Barcelona-Catalunya",
+    "IOC_Code": "esp",
+    "Length_in_km": 3.07,
+    "Location": "Barcelona",
+    "Track": "National Circuit",
+    "TrackOrdinal": 111
+  },
+  "1110": {
+    "Circuit": "Homestead-Miami Speedway",
+    "IOC_Code": "usa",
+    "Length_in_km": 2.41,
+    "Location": "Florida",
+    "Track": "Speedway Circuit",
+    "TrackOrdinal": 1110
+  },
+  "1111": {
+    "Circuit": "Homestead-Miami Speedway",
+    "IOC_Code": "usa",
+    "Length_in_km": 3.56,
+    "Location": "Florida",
+    "Track": "Road Circuit",
+    "TrackOrdinal": 1111
+  },
+  "113": {
+    "Circuit": "Circuit de Barcelona-Catalunya",
+    "IOC_Code": "esp",
+    "Length_in_km": 3,
+    "Location": "Barcelona",
+    "Track": "National Circuit Alt",
+    "TrackOrdinal": 113
+  },
+  "1450": {
+    "Circuit": "Mid-Ohio Sports Car Course",
+    "IOC_Code": "usa",
+    "Length_in_km": 3.62,
+    "Location": "Ohio",
+    "Track": "Full Circuit",
+    "TrackOrdinal": 1450
+  },
+  "1452": {
+    "Circuit": "Mid-Ohio Sports Car Course",
+    "IOC_Code": "usa",
+    "Length_in_km": 2.82,
+    "Location": "Ohio",
+    "Track": "Short Circuit",
+    "TrackOrdinal": 1452
+  },
+  "1590": {
+    "Circuit": "Kyalami Grand Prix Circuit",
+    "IOC_Code": "rsa",
+    "Length_in_km": 4.53,
+    "Location": "Midrand",
+    "Track": "Grand Prix Circuit",
+    "TrackOrdinal": 1590
+  },
+  "1630": {
+    "Circuit": "Grand Oak Raceway",
+    "IOC_Code": "usa",
+    "Length_in_km": 3.73,
+    "Location": "New Hampshire",
+    "Track": "National Circuit",
+    "TrackOrdinal": 1630
+  },
+  "1631": {
+    "Circuit": "Grand Oak Raceway",
+    "IOC_Code": "usa",
+    "Length_in_km": 2.62,
+    "Location": "New Hampshire",
+    "Track": "Club Circuit",
+    "TrackOrdinal": 1631
+  },
+  "1632": {
+    "Circuit": "Grand Oak Raceway",
+    "IOC_Code": "usa",
+    "Length_in_km": 3.73,
+    "Location": "New Hampshire",
+    "Track": "National Circuit Reverse",
+    "TrackOrdinal": 1632
+  },
+  "1640": {
+    "Circuit": "Hakone",
+    "IOC_Code": "jpn",
+    "Length_in_km": 4.28,
+    "Location": "Hakone",
+    "Track": "Grand Prix Circuit",
+    "TrackOrdinal": 1640
+  },
+  "1641": {
+    "Circuit": "Hakone",
+    "IOC_Code": "jpn",
+    "Length_in_km": 3.32,
+    "Location": "Hakone",
+    "Track": "Club Circuit",
+    "TrackOrdinal": 1641
+  },
+  "1642": {
+    "Circuit": "Hakone",
+    "IOC_Code": "jpn",
+    "Length_in_km": 3.32,
+    "Location": "Hakone",
+    "Track": "Club Circuit Reverse",
+    "TrackOrdinal": 1642
+  },
+  "1660": {
+    "Circuit": "Eaglerock Speedway",
+    "IOC_Code": "usa",
+    "Length_in_km": 1.64,
+    "Location": "Iowa",
+    "Track": "Oval Circuit",
+    "TrackOrdinal": 1660
+  },
+  "1661": {
+    "Circuit": "Eaglerock Speedway",
+    "IOC_Code": "usa",
+    "Length_in_km": 1.72,
+    "Location": "Iowa",
+    "Track": "Club Circuit",
+    "TrackOrdinal": 1661
+  },
+  "1663": {
+    "Circuit": "Eaglerock Speedway",
+    "IOC_Code": "usa",
+    "Length_in_km": 1.72,
+    "Location": "Iowa",
+    "Track": "Club Circuit Reverse",
+    "TrackOrdinal": 1663
+  },
+  "21": {
+    "Circuit": "Silverstone Racing Circuit",
+    "IOC_Code": "gbr",
+    "Length_in_km": 5.89,
+    "Location": "Silverston",
+    "Track": "Grand Prix Circuit",
+    "TrackOrdinal": 21
+  },
+  "22": {
+    "Circuit": "Silverstone Racing Circuit",
+    "IOC_Code": "gbr",
+    "Length_in_km": 2.64,
+    "Location": "Silverston",
+    "Track": "National Circuit",
+    "TrackOrdinal": 22
+  },
+  "23": {
+    "Circuit": "Silverstone Racing Circuit",
+    "IOC_Code": "gbr",
+    "Length_in_km": 2.98,
+    "Location": "Silverston",
+    "Track": "International Circuit",
+    "TrackOrdinal": 23
+  },
+  "231": {
+    "Circuit": "Indianapolis Motor Speedway",
+    "IOC_Code": "usa",
+    "Length_in_km": 4.02,
+    "Location": "Indianapolis",
+    "Track": "The Brickyard Speedway",
+    "TrackOrdinal": 231
+  },
+  "232": {
+    "Circuit": "Indianapolis Motor Speedway",
+    "IOC_Code": "usa",
+    "Length_in_km": 3.93,
+    "Location": "Indianapolis",
+    "Track": "Grand Prix Circuit",
+    "TrackOrdinal": 232
+  },
+  "250": {
+    "Circuit": "Hockenheimring",
+    "IOC_Code": "ger",
+    "Length_in_km": 4.57,
+    "Location": "Hockenheim",
+    "Track": "Full Circuit",
+    "TrackOrdinal": 250
+  },
+  "251": {
+    "Circuit": "Hockenheimring",
+    "IOC_Code": "ger",
+    "Length_in_km": 3.69,
+    "Location": "Hockenheim",
+    "Track": "National Circuit",
+    "TrackOrdinal": 251
+  },
+  "252": {
+    "Circuit": "Hockenheimring",
+    "IOC_Code": "ger",
+    "Length_in_km": 2.64,
+    "Location": "Hockenheim",
+    "Track": "Short Circuit",
+    "TrackOrdinal": 252
+  },
+  "3": {
+    "Circuit": "Road America",
+    "IOC_Code": "usa",
+    "Length_in_km": 6.52,
+    "Location": "Wisconsin",
+    "Track": "Full Circuit",
+    "TrackOrdinal": 3
+  },
+  "31": {
+    "Circuit": "Nürburgring",
+    "IOC_Code": "ger",
+    "Length_in_km": 25.38,
+    "Location": "Nürburg",
+    "Track": "Full Circuit",
+    "TrackOrdinal": 31
+  },
+  "32": {
+    "Circuit": "Nürburgring",
+    "IOC_Code": "ger",
+    "Length_in_km": 20.83,
+    "Location": "Nürburg",
+    "Track": "Nordschleife",
+    "TrackOrdinal": 32
+  },
+  "33": {
+    "Circuit": "Nürburgring",
+    "IOC_Code": "ger",
+    "Length_in_km": 5.15,
+    "Location": "Nürburg",
+    "Track": "GP Circuit",
+    "TrackOrdinal": 33
+  },
+  "34": {
+    "Circuit": "Nürburgring",
+    "IOC_Code": "ger",
+    "Length_in_km": 3.63,
+    "Location": "Nürburg",
+    "Track": "Sprint Circuit",
+    "TrackOrdinal": 34
+  },
+  "35": {
+    "Circuit": "Mugello Circuit",
+    "IOC_Code": "ita",
+    "Length_in_km": 5.25,
+    "Location": "Tuscany",
+    "Track": "Full Circuit",
+    "TrackOrdinal": 35
+  },
+  "36": {
+    "Circuit": "Mugello Circuit",
+    "IOC_Code": "ita",
+    "Length_in_km": 2.58,
+    "Location": "Tuscany",
+    "Track": "Club Circuit",
+    "TrackOrdinal": 36
+  },
+  "37": {
+    "Circuit": "Suzuka Circuit",
+    "IOC_Code": "jpn",
+    "Length_in_km": 5.81,
+    "Location": "Suzuka",
+    "Track": "Full Circuit",
+    "TrackOrdinal": 37
+  },
+  "38": {
+    "Circuit": "Suzuka Circuit",
+    "IOC_Code": "jpn",
+    "Length_in_km": 2.25,
+    "Location": "Suzuka",
+    "Track": "East Circuit",
+    "TrackOrdinal": 38
+  },
+  "5": {
+    "Circuit": "Road America",
+    "IOC_Code": "usa",
+    "Length_in_km": 3.52,
+    "Location": "Wisconsin",
+    "Track": "East Route",
+    "TrackOrdinal": 5
+  },
+  "510": {
+    "Circuit": "Yas Marina Circuit",
+    "IOC_Code": "uae",
+    "Length_in_km": 5.28,
+    "Location": "Abu Dhabi",
+    "Track": "Full Circuit",
+    "TrackOrdinal": 510
+  },
+  "511": {
+    "Circuit": "Yas Marina Circuit",
+    "IOC_Code": "uae",
+    "Length_in_km": 3,
+    "Location": "Abu Dhabi",
+    "Track": "North Circuit",
+    "TrackOrdinal": 511
+  },
+  "512": {
+    "Circuit": "Yas Marina Circuit",
+    "IOC_Code": "uae",
+    "Length_in_km": 2.19,
+    "Location": "Abu Dhabi",
+    "Track": "South Circuit",
+    "TrackOrdinal": 512
+  },
+  "513": {
+    "Circuit": "Yas Marina Circuit",
+    "IOC_Code": "uae",
+    "Length_in_km": 2.29,
+    "Location": "Abu Dhabi",
+    "Track": "North Corkscrew",
+    "TrackOrdinal": 513
+  },
+  "530": {
+    "Circuit": "Circuit de Spa-Francorchamps",
+    "IOC_Code": "bel",
+    "Length_in_km": 7,
+    "Location": "Spa",
+    "Track": "Full Circuit",
+    "TrackOrdinal": 530
+  },
+  "67": {
+    "Circuit": "Maple Valley",
+    "IOC_Code": "usa",
+    "Length_in_km": 4.81,
+    "Location": "Vermont",
+    "Track": "Full Circuit",
+    "TrackOrdinal": 67
+  },
+  "68": {
+    "Circuit": "Maple Valley",
+    "IOC_Code": "usa",
+    "Length_in_km": 1.85,
+    "Location": "Vermont",
+    "Track": "Short Circuit",
+    "TrackOrdinal": 68
+  },
+  "70": {
+    "Circuit": "Maple Valley",
+    "IOC_Code": "usa",
+    "Length_in_km": 1.85,
+    "Location": "Vermont",
+    "Track": "Short Circuit Reverse",
+    "TrackOrdinal": 70
+  },
+  "840": {
+    "Circuit": "Daytona Intl Speedway",
+    "IOC_Code": "usa",
+    "Length_in_km": 5.78,
+    "Location": "Daytona",
+    "Track": "Sports Car Circuit",
+    "TrackOrdinal": 840
+  },
+  "841": {
+    "Circuit": "Daytona Intl Speedway",
+    "IOC_Code": "usa",
+    "Length_in_km": 4.02,
+    "Location": "Daytona",
+    "Track": "Tri-Oval Circuit",
+    "TrackOrdinal": 841
+  },
+  "870": {
+    "Circuit": "Watkins Glen International Speedway",
+    "IOC_Code": "usa",
+    "Length_in_km": 5.55,
+    "Location": "New York",
+    "Track": "Full Circuit",
+    "TrackOrdinal": 870
+  },
+  "873": {
+    "Circuit": "Watkins Glen International Speedway",
+    "IOC_Code": "usa",
+    "Length_in_km": 3.94,
+    "Location": "New York",
+    "Track": "Short Circuit",
+    "TrackOrdinal": 873
+  },
+  "880": {
+    "Circuit": "Lime Rock Park",
+    "IOC_Code": "usa",
+    "Length_in_km": 2.41,
+    "Location": "Connecticut",
+    "Track": "Full Circuit",
+    "TrackOrdinal": 880
+  },
+  "882": {
+    "Circuit": "Lime Rock Park",
+    "IOC_Code": "usa",
+    "Length_in_km": 2.37,
+    "Location": "Connecticut",
+    "Track": "South Chicane",
+    "TrackOrdinal": 882
+  },
+  "883": {
+    "Circuit": "Lime Rock Park",
+    "IOC_Code": "usa",
+    "Length_in_km": 2.41,
+    "Location": "Connecticut",
+    "Track": "Full Circuit Alt",
+    "TrackOrdinal": 883
+  },
+  "990": {
+    "Circuit": "Virginia International Raceway",
+    "IOC_Code": "usa",
+    "Length_in_km": 5.26,
+    "Location": "Virginia",
+    "Track": "Full",
+    "TrackOrdinal": 990
+  },
+  "991": {
+    "Circuit": "Virginia International Raceway",
+    "IOC_Code": "usa",
+    "Length_in_km": 3.62,
+    "Location": "Virginia",
+    "Track": "North",
+    "TrackOrdinal": 991
+  },
+  "992": {
+    "Circuit": "Virginia International Raceway",
+    "IOC_Code": "usa",
+    "Length_in_km": 2.66,
+    "Location": "Virginia",
+    "Track": "South",
+    "TrackOrdinal": 992
+  },
+  "995": {
+    "Circuit": "Virginia International Raceway",
+    "IOC_Code": "usa",
+    "Length_in_km": 6.6,
+    "Location": "Virginia",
+    "Track": "Grand West",
+    "TrackOrdinal": 995
+  },
+  "996": {
+    "Circuit": "Virginia International Raceway",
+    "IOC_Code": "usa",
+    "Length_in_km": 6.76,
+    "Location": "Virginia",
+    "Track": "Grand East",
+    "TrackOrdinal": 996
+  }
+}
