@@ -391,6 +391,22 @@
     "Track": "Tri-Oval Circuit",
     "TrackOrdinal": 841
   },
+"860": {
+    "Circuit": "Brand Hatch",
+    "IOC_Code": "uk",
+    "Length_in_km": 3.70,
+    "Location": "West Kingsdown",
+    "Track": "Tor Grand Prix",
+    "TrackOrdinal": 860
+  },
+  "861": {
+    "Circuit": "Brand Hatch",
+    "IOC_Code": "uk",
+    "Length_in_km": 1.93,
+    "Location": "West Kingsdown",
+    "Track": "Tor Indy",
+    "TrackOrdinal": 861
+  },
   "870": {
     "Circuit": "Watkins Glen International Speedway",
     "IOC_Code": "usa",

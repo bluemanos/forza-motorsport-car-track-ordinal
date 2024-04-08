@@ -470,5 +470,21 @@
     "IOC_Code": "ger",
     "Track": "Nordschleife",
     "Length_in_km": 20.83
+  },
+  {
+    "TrackOrdinal": 860,
+    "Circuit": "Brand Hatch",
+    "Location": "West Kingsdown",
+    "IOC_Code": "uk",
+    "Track": "Tor Grand Prix",
+    "Length_in_km": 3.70
+  },
+  {
+    "TrackOrdinal": 861,
+    "Circuit": "Brand Hatch",
+    "Location": "West Kingsdown",
+    "IOC_Code": "uk",
+    "Track": "Tor Indy",
+    "Length_in_km": 1.93
   }
 ]
