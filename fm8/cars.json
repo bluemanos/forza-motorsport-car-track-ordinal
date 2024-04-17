@@ -3430,5 +3430,53 @@
     "Year": 2019,
     "Make": "Zenvo",
     "Model": "TSR-S"
+  },
+  {
+    "CarOrdinal": 3517,
+    "Year": 1966,
+    "Make": "Brabham",
+    "Model": "BT8"
+  },
+  {
+    "CarOrdinal": 3457,
+    "Year": 2020,
+    "Make": "Lexus",
+    "Model": "VASSER SULLIVAN RC F GT3"
+  },
+  {
+    "CarOrdinal": 3418,
+    "Year": 2019,
+    "Make": "Toyota",
+    "Model": "86 TRD SE"
+  },
+  {
+    "CarOrdinal": 3362,
+    "Year": 1984,
+    "Make": "Nissan",
+    "Model": "Silvia Super Silhouette"
+  },
+  {
+    "CarOrdinal": 3301,
+    "Year": 1986,
+    "Make": "Lotus",
+    "Model": "Team Lotus 98T"
+  },
+  {
+    "CarOrdinal": 2164,
+    "Year": 2015,
+    "Make": "Lamborghini",
+    "Model": "Huracan LP 610-4"
+  },
+  {
+    "CarOrdinal": 1369,
+    "Year": 2010,
+    "Make": "Pagani",
+    "Model": "Zonda Cinque Roadster"
+  },
+  {
+    "CarOrdinal": 1171,
+    "Year": 2010,
+    "Make": "Ferrari",
+    "Model": "599XX"
   }
 ]
