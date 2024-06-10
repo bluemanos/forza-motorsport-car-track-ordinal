@@ -486,5 +486,21 @@
     "IOC_Code": "uk",
     "Track": "Tor Indy",
     "Length_in_km": 1.93
+  },
+  {
+    "TrackOrdinal": 40,
+    "Circuit": "Sebring International",
+    "Location": "Sebring",
+    "IOC_Code": "usa",
+    "Track": "Full",
+    "Length_in_km": 6.02
+  },
+  {
+    "TrackOrdinal": 42,
+    "Circuit": "Sebring International",
+    "Location": "Sebring",
+    "IOC_Code": "usa",
+    "Track": "Short",
+    "Length_in_km": 3.54
   }
 ]
