@@ -3538,5 +3538,11 @@
     "Year": 2023,
     "Make": "Porsche",
     "Model": "Penske 963"
+  },
+  {
+    "CarOrdinal": 3541,
+    "Year": 1969,
+    "Make": "Chevron",
+    "Model": "B16"
   }
 ]
