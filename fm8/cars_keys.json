@@ -2621,6 +2621,12 @@
         "Make": "Elemental",
         "Model": "Rp1"
     },
+    "3338": {
+        "CarOrdinal": 3338,
+        "Year": 1988,
+        "Make": "Nissan",
+        "Model": "Motorsport International R88C"
+    },
     "335": {
         "CarOrdinal": 335,
         "Year": 2002,
