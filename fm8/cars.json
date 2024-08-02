@@ -3562,5 +3562,11 @@
     "Year": 2008,
     "Make": "Lamborghini",
     "Model": "Reventon"
+  },
+  {
+    "CarOrdinal": 568,
+    "Year": 1997,
+    "Make": "Mercedes-Benz",
+    "Model": "CLK GTR"
   }
 ]
