@@ -502,5 +502,13 @@
     "IOC_Code": "usa",
     "Track": "Short",
     "Length_in_km": 3.54
+  },
+  {
+    "TrackOrdinal": 16,
+    "Circuit": "Road Atlanta",
+    "Location": "Georgia",
+    "IOC_Code": "usa",
+    "Track": "Full",
+    "Length_in_km": 4.104
   }
 ]

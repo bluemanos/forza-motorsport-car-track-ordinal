@@ -95,6 +95,14 @@
         "Track": "Grand Prix Circuit",
         "Length_in_km": 4.53
     },
+    "16": {
+        "TrackOrdinal": 16,
+        "Circuit": "Road Atlanta",
+        "Location": "Georgia",
+        "IOC_Code": "usa",
+        "Track": "Full",
+        "Length_in_km": 4.104
+    },
     "1630": {
         "TrackOrdinal": 1630,
         "Circuit": "Grand Oak Raceway",
