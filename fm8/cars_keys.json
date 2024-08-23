@@ -485,6 +485,12 @@
         "Make": "Chevrolet",
         "Model": "Nova Super Sport 396"
     },
+    "1440": {
+        "CarOrdinal": 1440,
+        "Year": 2011,
+        "Make": "Ferrari",
+        "Model": "Risi Competizione 458 Italia GTC"
+    },
     "1457": {
         "CarOrdinal": 1457,
         "Year": 1969,

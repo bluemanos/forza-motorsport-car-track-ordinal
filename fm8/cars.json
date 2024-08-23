@@ -3568,5 +3568,11 @@
     "Year": 1997,
     "Make": "Mercedes-Benz",
     "Model": "CLK GTR"
+  },
+  {
+    "CarOrdinal": 1440,
+    "Year": 2011,
+    "Make": "Ferrari",
+    "Model": "Risi Competizione 458 Italia GTC"
   }
 ]
