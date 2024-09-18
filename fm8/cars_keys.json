@@ -3209,6 +3209,12 @@
         "Make": "Mitsubishi",
         "Model": "Lancer Evolution VI GSR"
     },
+    "3759": {
+        "CarOrdinal": 3759,
+        "Year": 2020,
+        "Make": "Lamborghini",
+        "Model": "Huracan EVO Spyder"
+    },
     "3760": {
         "CarOrdinal": 3760,
         "Year": 2022,

@@ -3592,5 +3592,11 @@
     "Year": 2018,
     "Make": "Aston Martin",
     "Model": "AMR Vantage GTE"
+  },
+  {
+    "CarOrdinal": 3759,
+    "Year": 2020,
+    "Make": "Lamborghini",
+    "Model": "Huracan EVO Spyder"
   }
 ]
