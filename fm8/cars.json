@@ -3598,5 +3598,11 @@
     "Year": 2020,
     "Make": "Lamborghini",
     "Model": "Huracan EVO Spyder"
+  },
+  {
+    "CarOrdinal": 3668,
+    "Year": 2021,
+    "Make": "McLaren",
+    "Model": "Artura"
   }
 ]
