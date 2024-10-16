@@ -3628,5 +3628,23 @@
     "Year": 2020,
     "Make": "Formula Drift",
     "Model": "Toyota GR Supra #151"
+  },
+  {
+    "CarOrdinal": 3868,
+    "Year": 2024,
+    "Make": "Ford",
+    "Model": "Mustang RTR #88"
+  },
+  {
+    "CarOrdinal": 3870,
+    "Year": 2024,
+   "Make": "Ford",
+    "Model": "Mustang RTR #25"
+  },
+  {
+    "CarOrdinal": 3916,
+    "Year": 2024,
+    "Make": "Ford",
+    "Model": "Mustang RTR #130"
   }
 ]
