@@ -518,5 +518,45 @@
     "IOC_Code": "usa",
     "Track": "Club",
     "Length_in_km": 2.85
+  },
+  {
+    "TrackOrdinal": 1620,
+    "Circuit": "Sunset Peninsula Raceway",
+    "Location": "Florida",
+    "IOC_Code": "usa",
+    "Track": "Full",
+    "Length_in_km": 4.47
+  },
+  {
+    "TrackOrdinal": 1621,
+    "Circuit": "Sunset Peninsula Raceway",
+    "Location": "Florida",
+    "IOC_Code": "usa",
+    "Track": "Club",
+    "Length_in_km": 3.12
+  },
+  {
+    "TrackOrdinal": 1622,
+    "Circuit": "Sunset Peninsula Raceway",
+    "Location": "Florida",
+    "IOC_Code": "usa",
+    "Track": "Full Reverse",
+    "Length_in_km": 4.47
+  },
+  {
+    "TrackOrdinal": 1623,
+    "Circuit": "Sunset Peninsula Raceway",
+    "Location": "Florida",
+    "IOC_Code": "usa",
+    "Track": "Club Reverse",
+    "Length_in_km": 3.12
+  },
+  {
+    "TrackOrdinal": 1624,
+    "Circuit": "Sunset Peninsula Raceway",
+    "Location": "Florida",
+    "IOC_Code": "usa",
+    "Track": "Speedway",
+    "Length_in_km": 3.93
   }
 ]

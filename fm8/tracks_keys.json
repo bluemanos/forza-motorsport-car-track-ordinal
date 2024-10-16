@@ -103,6 +103,46 @@
         "Track": "Full",
         "Length_in_km": 4.1
     },
+    "1620": {
+        "TrackOrdinal": 1620,
+        "Circuit": "Sunset Peninsula Raceway",
+        "Location": "Florida",
+        "IOC_Code": "usa",
+        "Track": "Full",
+        "Length_in_km": 4.47
+    },
+    "1621": {
+        "TrackOrdinal": 1621,
+        "Circuit": "Sunset Peninsula Raceway",
+        "Location": "Florida",
+        "IOC_Code": "usa",
+        "Track": "Club",
+        "Length_in_km": 3.12
+    },
+    "1622": {
+        "TrackOrdinal": 1622,
+        "Circuit": "Sunset Peninsula Raceway",
+        "Location": "Florida",
+        "IOC_Code": "usa",
+        "Track": "Full Reverse",
+        "Length_in_km": 4.47
+    },
+    "1623": {
+        "TrackOrdinal": 1623,
+        "Circuit": "Sunset Peninsula Raceway",
+        "Location": "Florida",
+        "IOC_Code": "usa",
+        "Track": "Club Reverse",
+        "Length_in_km": 3.12
+    },
+    "1624": {
+        "TrackOrdinal": 1624,
+        "Circuit": "Sunset Peninsula Raceway",
+        "Location": "Florida",
+        "IOC_Code": "usa",
+        "Track": "Speedway",
+        "Length_in_km": 3.93
+    },
     "1630": {
         "TrackOrdinal": 1630,
         "Circuit": "Grand Oak Raceway",
