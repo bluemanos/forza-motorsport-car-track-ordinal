@@ -420,9 +420,9 @@
 2988,2018,McLaren,Senna
 2993,2018,TVR,Griffith
 2995,1983,Volkswagen,Golf GTI
-2996,2024,Formula Drift,Ford Mustang #13
-3000,2024,Formula Drift,Nissan 240SX #777
-3003,2024,Formula Drift,Dodge Viper SRT10 #43
+2996,2015,Formula Drift,Ford Mustang #13
+3000,1997,Formula Drift,Nissan 240SX #777
+3003,2006,Formula Drift,Dodge Viper SRT10 #43
 3018,1985,Nissan,#83 GTP ZX-Turbo
 3019,1948,Ferrari,166 Inter Sport
 3023,1983,Porsche,#11 John Fitzpatrick Racing 956
@@ -543,6 +543,7 @@
 3517,1966,Brabham,BT8
 3518,2020,BMW,M8 Competition Coupé
 3520,2021,Lexus,LC 500
+3523,2020,Formula Drift,Toyota GR Supra #151
 3532,2020,Hyundai,#98 Bryan Herta Autosport Veloster N
 3533,2022,Volkswagen,Golf R
 3534,2021,MINI,John Cooper Works GP
