@@ -2045,6 +2045,24 @@
         "Make": "Volkswagen",
         "Model": "Golf GTI"
     },
+    "2996": {
+        "CarOrdinal": 2996,
+        "Year": 2024,
+        "Make": "Formula Drift",
+        "Model": "Ford Mustang #13"
+    },
+    "3000": {
+        "CarOrdinal": 3000,
+        "Year": 2024,
+        "Make": "Formula Drift",
+        "Model": "Nissan 240SX #777"
+    },
+    "3003": {
+        "CarOrdinal": 3003,
+        "Year": 2024,
+        "Make": "Formula Drift",
+        "Model": "Dodge Viper SRT10 #43"
+    },
     "3018": {
         "CarOrdinal": 3018,
         "Year": 1985,
