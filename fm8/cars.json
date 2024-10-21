@@ -3658,5 +3658,11 @@
     "Year": 2024,
     "Make": "Ford",
     "Model": "Mustang Dark Horse"
+  },
+  {
+    "CarOrdinal": 3436,
+    "Year": 1970,
+    "Make": "Ford",
+    "Model": "Mustang Boss 302 Trans AM"
   }
 ]
