@@ -3664,5 +3664,11 @@
     "Year": 1970,
     "Make": "Ford",
     "Model": "Mustang Boss 302 Trans AM"
+  },
+  {
+    "CarOrdinal": 365,
+    "Year": 2005,
+    "Make": "Subaru",
+    "Model": "Impreza WRX STI"
   }
 ]
