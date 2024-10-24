@@ -3670,5 +3670,11 @@
     "Year": 2005,
     "Make": "Subaru",
     "Model": "Impreza WRX STI"
+  },
+  {
+    "CarOrdinal": 3696,
+    "Year": 1965,
+    "Make": "Shelby",
+    "Model": "GT 500"
   }
 ]
