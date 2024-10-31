@@ -3676,5 +3676,11 @@
     "Year": 1965,
     "Make": "Shelby",
     "Model": "GT 500"
+  },
+  {
+    "CarOrdinal": 1510,
+    "Year": 1993,
+    "Make": "Ford",
+    "Model": "Ford Mustang SVT Cobra R"
   }
 ]
