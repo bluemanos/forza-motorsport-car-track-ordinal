@@ -3443,6 +3443,12 @@
         "Make": "Toyota",
         "Model": "MR2 GT"
     },
+    "3993": {
+        "CarOrdinal": 3993,
+        "Year": 2024,
+        "Make": "Toyota",
+        "Model": "NASCAR Next Gen Camry XSE"
+    },
     "405": {
         "CarOrdinal": 405,
         "Year": 2000,

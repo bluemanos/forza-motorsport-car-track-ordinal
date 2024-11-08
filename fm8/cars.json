@@ -3688,5 +3688,11 @@
     "Year": 2007,
     "Make": "Ford",
     "Model": "Mustang GT500"
+  },
+  {
+    "CarOrdinal": 3993,
+    "Year": 2024,
+    "Make": "Toyota",
+    "Model": "NASCAR Next Gen Camry XSE"
   }
 ]
