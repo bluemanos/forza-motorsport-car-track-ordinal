@@ -3700,5 +3700,11 @@
     "Year": 2024,
     "Make": "Chevrolet",
     "Model": "NASCAR Next Gen Camaro ZL1"
+  },
+  {
+    "CarOrdinal": 3995,
+    "Year": 2024,
+    "Make": "Ford",
+    "Model": "NASCAR Next Gen Mustang Dark Horse"
   }
 ]
