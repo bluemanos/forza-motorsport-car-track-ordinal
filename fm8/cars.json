@@ -3694,5 +3694,11 @@
     "Year": 2024,
     "Make": "Toyota",
     "Model": "NASCAR Next Gen Camry XSE"
+  },
+  {
+    "CarOrdinal": 3994,
+    "Year": 2024,
+    "Make": "Chevrolet",
+    "Model": "NASCAR Next Gen Camaro ZL1"
   }
 ]
