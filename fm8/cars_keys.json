@@ -549,7 +549,7 @@
         "CarOrdinal": 1510,
         "Year": 1993,
         "Make": "Ford",
-        "Model": "Ford Mustang SVT Cobra R"
+        "Model": "Mustang SVT Cobra R"
     },
     "1511": {
         "CarOrdinal": 1511,
@@ -760,6 +760,12 @@
         "Year": 2013,
         "Make": "KTM",
         "Model": "X-Bow R"
+    },
+    "1654": {
+        "CarOrdinal": 1654,
+        "Year": 2007,
+        "Make": "Ford",
+        "Model": "Mustang GT500"
     },
     "1655": {
         "CarOrdinal": 1655,
