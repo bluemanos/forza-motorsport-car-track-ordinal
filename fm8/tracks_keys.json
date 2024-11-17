@@ -423,6 +423,14 @@
         "Track": "Full Circuit",
         "Length_in_km": 7
     },
+    "540": {
+        "TrackOrdinal": 540,
+        "Circuit": "Mount Panorama",
+        "Location": "Australia",
+        "IOC_Code": "au",
+        "Track": "Circuit",
+        "Length_in_km": 6.21
+    },
     "67": {
         "TrackOrdinal": 67,
         "Circuit": "Maple Valley",
