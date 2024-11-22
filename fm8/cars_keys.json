@@ -473,6 +473,12 @@
         "Make": "Toyota",
         "Model": "MR2 SC"
     },
+    "1403": {
+        "CarOrdinal": 1403,
+        "Year": 2010,
+        "Make": "Mazda",
+        "Model": "Racing B09/86"
+    },
     "1426": {
         "CarOrdinal": 1426,
         "Year": 2011,
