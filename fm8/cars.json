@@ -3724,5 +3724,11 @@
     "Year": 2010,
     "Make": "Mazda",
     "Model": "Racing B09/86"
+  },
+  {
+    "CarOrdinal": 3435,
+    "Year": 1990,
+    "Make": "Chevrolet",
+    "Model": "Beretta Trans AM"
   }
 ]
