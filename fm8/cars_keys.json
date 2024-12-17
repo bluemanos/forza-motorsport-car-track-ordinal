@@ -473,6 +473,12 @@
         "Make": "Toyota",
         "Model": "MR2 SC"
     },
+    "1396": {
+        "CarOrdinal": 1396,
+        "Year": 2011,
+        "Make": "HSV",
+        "Model": "GTS"
+    },
     "1403": {
         "CarOrdinal": 1403,
         "Year": 2010,

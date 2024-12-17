@@ -3730,5 +3730,11 @@
     "Year": 1990,
     "Make": "Chevrolet",
     "Model": "Beretta Trans AM"
+  },
+  {
+    "CarOrdinal": 1396,
+    "Year": 2011,
+    "Make": "HSV",
+    "Model": "GTS"
   }
 ]
