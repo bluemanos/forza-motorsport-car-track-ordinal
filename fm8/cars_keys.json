@@ -1655,6 +1655,12 @@
         "Make": "HSV",
         "Model": "GTSR"
     },
+    "2584": {
+        "CarOrdinal": 2584,
+        "Year": 1985,
+        "Make": "HDT",
+        "Model": "VK Commodore Group A"
+    },
     "260": {
         "CarOrdinal": 260,
         "Year": 1973,

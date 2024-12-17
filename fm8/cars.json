@@ -3736,5 +3736,11 @@
     "Year": 2011,
     "Make": "HSV",
     "Model": "GTS"
+  },
+  {
+    "CarOrdinal": 2584,
+    "Year": 1985,
+    "Make": "HDT",
+    "Model": "VK Commodore Group A"
   }
 ]
