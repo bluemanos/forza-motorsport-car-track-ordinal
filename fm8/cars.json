@@ -3742,5 +3742,11 @@
     "Year": 1985,
     "Make": "HDT",
     "Model": "VK Commodore Group A"
+  },
+  {
+    "CarOrdinal": 2587,
+    "Year": 1988,
+    "Make": "Holden",
+    "Model": "HSV Commodore Group A SV"
   }
 ]
