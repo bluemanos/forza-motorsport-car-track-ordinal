@@ -989,6 +989,12 @@
         "Make": "BMW",
         "Model": "#25 BMW Motorsport 3.0 CSL"
     },
+    "2118": {
+        "CarOrdinal": 2118,
+        "Year": 2013,
+        "Make": "Holden",
+        "Model": "Xbox Racing Team Commodore VF"
+    },
     "2125": {
         "CarOrdinal": 2125,
         "Year": 1981,
