@@ -1679,6 +1679,12 @@
         "Make": "HDT",
         "Model": "VK Commodore Group A"
     },
+    "2585": {
+        "CarOrdinal": 2585,
+        "Year": 1972,
+        "Make": "Ford",
+        "Model": "Falcon XA GT-HO"
+    },
     "2587": {
         "CarOrdinal": 2587,
         "Year": 1988,
