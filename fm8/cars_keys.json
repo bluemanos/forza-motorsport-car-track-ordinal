@@ -3497,6 +3497,12 @@
         "Make": "Mitsubishi",
         "Model": "Lancer Evolution III GSR"
     },
+    "3888": {
+        "CarOrdinal": 3888,
+        "Year": 1976,
+        "Make": "BMW",
+        "Model": "3.0 CSL #1"
+    },
     "391": {
         "CarOrdinal": 391,
         "Year": 2004,
