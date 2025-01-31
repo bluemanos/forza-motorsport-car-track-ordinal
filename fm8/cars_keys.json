@@ -1295,6 +1295,12 @@
         "Make": "Porsche",
         "Model": "356A Speedster"
     },
+    "2300": {
+        "CarOrdinal": 2300,
+        "Year": 1999,
+        "Make": "BMW",
+        "Model": "V12 LMR #16"
+    },
     "2302": {
         "CarOrdinal": 2302,
         "Year": 2014,
