@@ -3533,6 +3533,12 @@
         "Make": "Ford",
         "Model": "Mustang RTR #130"
     },
+    "3919": {
+        "CarOrdinal": 3919,
+        "Year": 2023,
+        "Make": "BMW",
+        "Model": "M4 GT3 #96"
+    },
     "3972": {
         "CarOrdinal": 3972,
         "Year": 1969,
