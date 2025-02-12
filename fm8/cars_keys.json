@@ -3545,6 +3545,12 @@
         "Make": "BMW",
         "Model": "M4 GT3 #96"
     },
+    "3928": {
+        "CarOrdinal": 3928,
+        "Year": 2020,
+        "Make": "Hyundai",
+        "Model": "i20N"
+    },
     "3972": {
         "CarOrdinal": 3972,
         "Year": 1969,
