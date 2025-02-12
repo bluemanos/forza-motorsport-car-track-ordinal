@@ -41,7 +41,7 @@ func readCars() (map[int]Car, []int) {
 	return carsWithKeys, keys
 }
 
-func writeCarsKeys(carsWithKeys map[int]Car, keys []int) {
+func writeCarsKeys(carsWithKeys map[int]Car, _ []int) {
 	fileJson, err := os.OpenFile("../cars_keys.json", os.O_RDWR|os.O_CREATE|os.O_TRUNC, 0755)
 	if err != nil {
 		fmt.Println(err)
@@ -66,7 +66,7 @@ func writeCarsCsv(carsWithKeys map[int]Car, keys []int) {
 	}
 	defer fileCsv.Close()
 	for _, key := range keys {
-		fmt.Fprintf(fileCsv, fmt.Sprintf("%d,%d,%s,%s\n", carsWithKeys[key].CarOrdinal, carsWithKeys[key].Year, carsWithKeys[key].Make, carsWithKeys[key].Model))
+		fmt.Fprintf(fileCsv, "%s", fmt.Sprintf("%d,%d,%s,%s\n", carsWithKeys[key].CarOrdinal, carsWithKeys[key].Year, carsWithKeys[key].Make, carsWithKeys[key].Model))
 	}
 	fmt.Println("cars.csv saved")
 }
