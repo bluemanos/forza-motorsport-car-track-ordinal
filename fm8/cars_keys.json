@@ -3473,6 +3473,12 @@
         "Make": "BMW",
         "Model": "M3"
     },
+    "3823": {
+        "CarOrdinal": 3823,
+        "Year": 2022,
+        "Make": "Mazda",
+        "Model": "MX-5 Miata RF"
+    },
     "3827": {
         "CarOrdinal": 3827,
         "Year": 2023,

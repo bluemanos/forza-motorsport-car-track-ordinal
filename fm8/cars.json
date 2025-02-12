@@ -3850,5 +3850,11 @@
     "Year": 2020,
     "Make": "Hyundai",
     "Model": "i30N"
+  },
+  {
+    "CarOrdinal": 3823,
+    "Year": 2022,
+    "Make": "Mazda",
+    "Model": "MX-5 Miata RF"
   }
 ]
