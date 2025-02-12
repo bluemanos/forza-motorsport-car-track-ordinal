@@ -3964,5 +3964,11 @@
     "Year": 2022,
     "Make": "Ford",
     "Model": "Bronco Raptor"
+  },
+  {
+    "CarOrdinal": 3795,
+    "Year": 2023,
+    "Make": "Meyers",
+    "Model": "Manx 2.0"
   }
 ]
