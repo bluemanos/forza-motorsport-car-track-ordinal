@@ -11,6 +11,12 @@
         "Make": "Mitsubishi",
         "Model": "Lancer Evolution X GSR"
     },
+    "1011": {
+        "CarOrdinal": 1011,
+        "Year": 2008,
+        "Make": "BMW",
+        "Model": "M3"
+    },
     "1020": {
         "CarOrdinal": 1020,
         "Year": 1996,
