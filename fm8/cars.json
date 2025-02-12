@@ -3922,5 +3922,11 @@
     "Year": 2019,
     "Make": "Toyota",
     "Model": "4Runner TRD Pro"
+  },
+  {
+    "CarOrdinal": 3548,
+    "Year": 2013,
+    "Make": "Wuling",
+    "Model": "Sunshine S"
   }
 ]
