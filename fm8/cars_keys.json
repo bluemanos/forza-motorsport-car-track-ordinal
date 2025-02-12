@@ -3455,6 +3455,12 @@
         "Make": "Ford",
         "Model": "Bronco Raptor"
     },
+    "3737": {
+        "CarOrdinal": 3737,
+        "Year": 2022,
+        "Make": "BMW",
+        "Model": "iX xDrive50"
+    },
     "374": {
         "CarOrdinal": 374,
         "Year": 2006,
