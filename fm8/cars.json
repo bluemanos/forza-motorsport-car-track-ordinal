@@ -3958,5 +3958,11 @@
     "Year": 1964,
     "Make": "Plymouth",
     "Model": "Belvedere"
+  },
+  {
+    "CarOrdinal": 3736,
+    "Year": 2022,
+    "Make": "Ford",
+    "Model": "Bronco Raptor"
   }
 ]

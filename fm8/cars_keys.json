@@ -3443,6 +3443,12 @@
         "Make": "SUBARU",
         "Model": "BRZ"
     },
+    "3736": {
+        "CarOrdinal": 3736,
+        "Year": 2022,
+        "Make": "Ford",
+        "Model": "Bronco Raptor"
+    },
     "374": {
         "CarOrdinal": 374,
         "Year": 2006,
