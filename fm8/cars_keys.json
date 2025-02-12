@@ -3285,13 +3285,19 @@
         "CarOrdinal": 3676,
         "Year": 2021,
         "Make": "Hyundai",
-        "Model": "Elantra N #98 Bryan Herta Autosport Elantra N"
+        "Model": "Elantra N #98"
     },
     "3677": {
         "CarOrdinal": 3677,
         "Year": 2021,
         "Make": "Lynk \u0026 Co",
         "Model": "03+"
+    },
+    "3678": {
+        "CarOrdinal": 3678,
+        "Year": 2020,
+        "Make": "Hyundai",
+        "Model": "i30N"
     },
     "368": {
         "CarOrdinal": 368,
