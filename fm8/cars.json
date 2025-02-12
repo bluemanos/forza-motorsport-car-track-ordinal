@@ -3856,5 +3856,11 @@
     "Year": 2022,
     "Make": "Mazda",
     "Model": "MX-5 Miata RF"
+  },
+  {
+    "CarOrdinal": 3848,
+    "Year": 2023,
+    "Make": "Toyota",
+    "Model": "Camry TRD"
   }
 ]

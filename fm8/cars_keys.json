@@ -3503,6 +3503,12 @@
         "Make": "Ford",
         "Model": "Mustang Dark Horse"
     },
+    "3848": {
+        "CarOrdinal": 3848,
+        "Year": 2023,
+        "Make": "Toyota",
+        "Model": "Camry TRD"
+    },
     "3862": {
         "CarOrdinal": 3862,
         "Year": 2022,
