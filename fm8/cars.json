@@ -3826,5 +3826,11 @@
     "Year": 2021,
     "Make": "Hyundai",
     "Model": "i20N"
+  },
+  {
+    "CarOrdinal": 3827,
+    "Year": 2023,
+    "Make": "Hyundai",
+    "Model": "IONIQ 5 N"
   }
 ]
