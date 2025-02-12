@@ -3940,5 +3940,11 @@
     "Year": 2007,
     "Make": "Toyota",
     "Model": "Hilux Arctic Trucks AT38"
+  },
+  {
+    "CarOrdinal": 2474,
+    "Year": 2016,
+    "Make": "Zenvo",
+    "Model": "ST1"
   }
 ]
