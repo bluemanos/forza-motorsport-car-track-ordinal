@@ -3952,5 +3952,11 @@
     "Year": 2023,
     "Make": "Lucid",
     "Model": "Air Sapphire"
+  },
+  {
+    "CarOrdinal": 3244,
+    "Year": 1964,
+    "Make": "Plymouth",
+    "Model": "Belvedere"
   }
 ]
