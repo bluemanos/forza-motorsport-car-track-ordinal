@@ -35,6 +35,12 @@
         "Make": "Ferrari",
         "Model": "F40 Competizione"
     },
+    "1032": {
+        "CarOrdinal": 1032,
+        "Year": 2007,
+        "Make": "Alfa Romeo",
+        "Model": "8C Competizione"
+    },
     "1033": {
         "CarOrdinal": 1033,
         "Year": 1990,
