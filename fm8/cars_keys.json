@@ -2513,6 +2513,12 @@
         "Make": "Formula Drift",
         "Model": "Dodge Viper SRT10 #43"
     },
+    "3007": {
+        "CarOrdinal": 3007,
+        "Year": 2017,
+        "Make": "Volkswagen",
+        "Model": "Beetle #34"
+    },
     "3018": {
         "CarOrdinal": 3018,
         "Year": 1985,
