@@ -1079,6 +1079,12 @@
         "Make": "Ferrari",
         "Model": "#1 Scuderia Ferrari 641"
     },
+    "2128": {
+        "CarOrdinal": 2128,
+        "Year": 2013,
+        "Make": "Cadillac",
+        "Model": "XTS Limousine"
+    },
     "2131": {
         "CarOrdinal": 2131,
         "Year": 2014,
