@@ -4132,5 +4132,11 @@
     "Year": 1980,
     "Make": "Subaru",
     "Model": "BRAT GL"
+  },
+  {
+    "CarOrdinal": 2469,
+    "Year": 1965,
+    "Make": "Toyota",
+    "Model": "Sports 800"
   }
 ]

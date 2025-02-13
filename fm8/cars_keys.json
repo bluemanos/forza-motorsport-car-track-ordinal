@@ -1529,6 +1529,12 @@
         "Make": "Dodge",
         "Model": "Charger SRT Hellcat"
     },
+    "2469": {
+        "CarOrdinal": 2469,
+        "Year": 1965,
+        "Make": "Toyota",
+        "Model": "Sports 800"
+    },
     "247": {
         "CarOrdinal": 247,
         "Year": 1969,
