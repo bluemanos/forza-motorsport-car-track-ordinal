@@ -1691,6 +1691,12 @@
         "Make": "Chevrolet",
         "Model": "Camaro Super Sport"
     },
+    "2527": {
+        "CarOrdinal": 2527,
+        "Year": 2017,
+        "Make": "Aston Martin",
+        "Model": "DB11"
+    },
     "2528": {
         "CarOrdinal": 2528,
         "Year": 2016,
