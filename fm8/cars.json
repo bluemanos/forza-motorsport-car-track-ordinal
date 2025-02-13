@@ -4624,5 +4624,11 @@
     "Year": 1969,
     "Make": "Volkswagen",
     "Model": "Class 5/1600 Baja Bug"
+  },
+  {
+    "CarOrdinal": 1435,
+    "Year": 1963,
+    "Make": "Volkswagen",
+    "Model": "Beetle"
   }
 ]
