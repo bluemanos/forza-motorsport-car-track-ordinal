@@ -4486,5 +4486,11 @@
     "Year": 1970,
     "Make": "Chevrolet",
     "Model": "El Camino Super Sport 454"
+  },
+  {
+    "CarOrdinal": 1354,
+    "Year": 1966,
+    "Make": "Chevrolet",
+    "Model": "Nova Super Sport"
   }
 ]
