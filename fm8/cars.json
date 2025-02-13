@@ -4336,5 +4336,11 @@
     "Year": 2015,
     "Make": "Alumi Craft",
     "Model": "Class 10 Race Car"
+  },
+  {
+    "CarOrdinal": 1482,
+    "Year": 1973,
+    "Make": "AMC",
+    "Model": "Gremlin X"
   }
 ]

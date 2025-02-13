@@ -587,6 +587,12 @@
         "Make": "Austin-Healey",
         "Model": "3000 MkIII"
     },
+    "1482": {
+        "CarOrdinal": 1482,
+        "Year": 1973,
+        "Make": "AMC",
+        "Model": "Gremlin X"
+    },
     "1486": {
         "CarOrdinal": 1486,
         "Year": 1966,
