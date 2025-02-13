@@ -371,6 +371,12 @@
         "Make": "Mercedes-Benz",
         "Model": "190E 2.5-16 Evolution II"
     },
+    "1299": {
+        "CarOrdinal": 1299,
+        "Year": 1983,
+        "Make": "Volvo",
+        "Model": "242 Turbo Evolution"
+    },
     "1300": {
         "CarOrdinal": 1300,
         "Year": 1964,

@@ -4642,5 +4642,11 @@
     "Year": 2015,
     "Make": "Volvo",
     "Model": "V60 Polestar"
+  },
+  {
+    "CarOrdinal": 1299,
+    "Year": 1983,
+    "Make": "Volvo",
+    "Model": "242 Turbo Evolution"
   }
 ]
