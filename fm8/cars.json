@@ -4612,5 +4612,11 @@
     "Year": 2010,
     "Make": "Volkswagen",
     "Model": "Golf R"
+  },
+  {
+    "CarOrdinal": 2258,
+    "Year": 1970,
+    "Make": "Volkswagen",
+    "Model": "#1107 Desert Dingo Racing Stock Bug"
   }
 ]

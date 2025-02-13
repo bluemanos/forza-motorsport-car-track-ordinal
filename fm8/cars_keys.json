@@ -1469,6 +1469,12 @@
         "Make": "Mazda",
         "Model": "MX-5 Miata"
     },
+    "2258": {
+        "CarOrdinal": 2258,
+        "Year": 1970,
+        "Make": "Volkswagen",
+        "Model": "#1107 Desert Dingo Racing Stock Bug"
+    },
     "2262": {
         "CarOrdinal": 2262,
         "Year": 2016,
