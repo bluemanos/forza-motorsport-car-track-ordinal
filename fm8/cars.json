@@ -4504,5 +4504,11 @@
     "Year": 1960,
     "Make": "Chevrolet",
     "Model": "Corvette"
+  },
+  {
+    "CarOrdinal": 1459,
+    "Year": 1957,
+    "Make": "Chevrolet",
+    "Model": "Bel Air"
   }
 ]
