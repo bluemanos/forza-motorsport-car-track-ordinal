@@ -941,6 +941,12 @@
         "Make": "FIAT",
         "Model": "Dino 2.4 Coupe"
     },
+    "1619": {
+        "CarOrdinal": 1619,
+        "Year": 1967,
+        "Make": "Mercedes-Benz",
+        "Model": "280 SL"
+    },
     "1620": {
         "CarOrdinal": 1620,
         "Year": 2012,
