@@ -185,6 +185,12 @@
         "Make": "BMW",
         "Model": "M5"
     },
+    "1130": {
+        "CarOrdinal": 1130,
+        "Year": 2011,
+        "Make": "McLaren",
+        "Model": "12C Coupe"
+    },
     "1131": {
         "CarOrdinal": 1131,
         "Year": 2009,
