@@ -3988,5 +3988,11 @@
     "Year": 2022,
     "Make": "BMW",
     "Model": "iX xDrive50"
+  },
+  {
+    "CarOrdinal": 3658,
+    "Year": 2022,
+    "Make": "Rivian",
+    "Model": "R1S"
   }
 ]

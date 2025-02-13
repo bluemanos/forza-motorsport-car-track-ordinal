@@ -3341,6 +3341,12 @@
         "Make": "McLaren",
         "Model": "620R"
     },
+    "3658": {
+        "CarOrdinal": 3658,
+        "Year": 2022,
+        "Make": "Rivian",
+        "Model": "R1S"
+    },
     "3667": {
         "CarOrdinal": 3667,
         "Year": 2021,
