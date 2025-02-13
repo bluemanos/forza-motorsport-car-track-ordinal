@@ -4492,5 +4492,11 @@
     "Year": 1966,
     "Make": "Chevrolet",
     "Model": "Nova Super Sport"
+  },
+  {
+    "CarOrdinal": 1300,
+    "Year": 1964,
+    "Make": "Chevrolet",
+    "Model": "Impala Super Sport 409"
   }
 ]

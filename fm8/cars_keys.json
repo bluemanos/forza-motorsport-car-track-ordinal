@@ -353,6 +353,12 @@
         "Make": "Mercedes-Benz",
         "Model": "190E 2.5-16 Evolution II"
     },
+    "1300": {
+        "CarOrdinal": 1300,
+        "Year": 1964,
+        "Make": "Chevrolet",
+        "Model": "Impala Super Sport 409"
+    },
     "1301": {
         "CarOrdinal": 1301,
         "Year": 1956,
