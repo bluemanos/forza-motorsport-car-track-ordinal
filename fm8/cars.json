@@ -4348,5 +4348,11 @@
     "Year": 2554,
     "Make": "AMG Transport Dynamics",
     "Model": "M12S Warthog CST"
+  },
+  {
+    "CarOrdinal": 2430,
+    "Year": 2016,
+    "Make": "Ariel",
+    "Model": "Nomad"
   }
 ]

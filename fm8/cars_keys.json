@@ -1535,6 +1535,12 @@
         "Make": "Vauxhall",
         "Model": "Corsa VXR"
     },
+    "2430": {
+        "CarOrdinal": 2430,
+        "Year": 2016,
+        "Make": "Ariel",
+        "Model": "Nomad"
+    },
     "2434": {
         "CarOrdinal": 2434,
         "Year": 1992,
