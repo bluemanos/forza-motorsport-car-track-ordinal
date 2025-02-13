@@ -4126,5 +4126,11 @@
     "Year": 2022,
     "Make": "GMC",
     "Model": "HUMMER EV Pickup"
+  },
+  {
+    "CarOrdinal": 2140,
+    "Year": 1980,
+    "Make": "Subaru",
+    "Model": "BRAT GL"
   }
 ]

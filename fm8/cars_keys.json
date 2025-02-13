@@ -1091,6 +1091,12 @@
         "Make": "BMW",
         "Model": "i8"
     },
+    "2140": {
+        "CarOrdinal": 2140,
+        "Year": 1980,
+        "Make": "Subaru",
+        "Model": "BRAT GL"
+    },
     "2142": {
         "CarOrdinal": 2142,
         "Year": 2014,
