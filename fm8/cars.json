@@ -4294,5 +4294,11 @@
     "Year": 2019,
     "Make": "Toyota",
     "Model": "Tacoma TRD Pro"
+  },
+  {
+    "CarOrdinal": 3235,
+    "Year": 1982,
+    "Make": "Volkswagen",
+    "Model": "Pickup LX"
   }
 ]
