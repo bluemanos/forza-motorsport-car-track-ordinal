@@ -4397,6 +4397,12 @@
         "Make": "Saleen",
         "Model": "S7"
     },
+    "433": {
+        "CarOrdinal": 433,
+        "Year": 2005,
+        "Make": "TVR",
+        "Model": "Sagaris"
+    },
     "439": {
         "CarOrdinal": 439,
         "Year": 1992,
