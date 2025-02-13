@@ -89,6 +89,12 @@
         "Make": "Dodge",
         "Model": "Viper SRT10 ACR"
     },
+    "1059": {
+        "CarOrdinal": 1059,
+        "Year": 2008,
+        "Make": "BMW",
+        "Model": "Z4 M Coupe"
+    },
     "1060": {
         "CarOrdinal": 1060,
         "Year": 2008,
