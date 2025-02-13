@@ -4576,5 +4576,11 @@
     "Year": 1993,
     "Make": "Toyota",
     "Model": "#1 T100 Baja Truck"
+  },
+  {
+    "CarOrdinal": 2566,
+    "Year": 1979,
+    "Make": "Toyota",
+    "Model": "FJ40"
   }
 ]

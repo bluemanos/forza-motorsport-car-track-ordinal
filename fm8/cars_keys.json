@@ -1967,6 +1967,12 @@
         "Make": "Jaguar",
         "Model": "Mk II 3.8"
     },
+    "2566": {
+        "CarOrdinal": 2566,
+        "Year": 1979,
+        "Make": "Toyota",
+        "Model": "FJ40"
+    },
     "2569": {
         "CarOrdinal": 2569,
         "Year": 2015,
