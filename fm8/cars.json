@@ -4000,5 +4000,11 @@
     "Year": 2022,
     "Make": "Rivian",
     "Model": "R1T"
+  },
+  {
+    "CarOrdinal": 2489,
+    "Year": 2016,
+    "Make": "Abarth",
+    "Model": "695 Biposto"
   }
 ]
