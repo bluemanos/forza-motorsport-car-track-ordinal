@@ -4534,5 +4534,11 @@
     "Year": 1969,
     "Make": "FIAT",
     "Model": "Dino 2.4 Coupe"
+  },
+  {
+    "CarOrdinal": 2405,
+    "Year": 2000,
+    "Make": "Lotus",
+    "Model": "340R"
   }
 ]
