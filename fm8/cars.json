@@ -4120,5 +4120,11 @@
     "Year": 1986,
     "Make": "Ford",
     "Model": "F-150 XLT Lariat"
+  },
+  {
+    "CarOrdinal": 3722,
+    "Year": 2022,
+    "Make": "GMC",
+    "Model": "HUMMER EV Pickup"
   }
 ]
