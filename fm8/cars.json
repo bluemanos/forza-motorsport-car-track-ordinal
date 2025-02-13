@@ -4516,5 +4516,11 @@
     "Year": 1955,
     "Make": "Chevrolet",
     "Model": "150 Utility Sedan"
+  },
+  {
+    "CarOrdinal": 1564,
+    "Year": 1953,
+    "Make": "Chevrolet",
+    "Model": "Corvette"
   }
 ]
