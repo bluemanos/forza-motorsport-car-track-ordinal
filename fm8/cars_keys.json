@@ -143,6 +143,12 @@
         "Make": "Mazda",
         "Model": "MX-5 Miata"
     },
+    "1124": {
+        "CarOrdinal": 1124,
+        "Year": 1980,
+        "Make": "Abarth",
+        "Model": "Fiat 131"
+    },
     "1125": {
         "CarOrdinal": 1125,
         "Year": 2008,
