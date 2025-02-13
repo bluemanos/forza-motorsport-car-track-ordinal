@@ -2873,6 +2873,12 @@
         "Make": "Audi",
         "Model": "RS 4 Avant"
     },
+    "3320": {
+        "CarOrdinal": 3320,
+        "Year": 2019,
+        "Make": "Italdesign",
+        "Model": "DaVinci Concept"
+    },
     "333": {
         "CarOrdinal": 333,
         "Year": 2002,
