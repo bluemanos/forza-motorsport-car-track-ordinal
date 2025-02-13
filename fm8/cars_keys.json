@@ -1991,6 +1991,12 @@
         "Make": "Toyota",
         "Model": "FJ40"
     },
+    "2568": {
+        "CarOrdinal": 2568,
+        "Year": 1969,
+        "Make": "Volkswagen",
+        "Model": "Class 5/1600 Baja Bug"
+    },
     "2569": {
         "CarOrdinal": 2569,
         "Year": 2015,
