@@ -4282,5 +4282,11 @@
     "Year": 2021,
     "Make": "Aston Martin",
     "Model": "DBX"
+  },
+  {
+    "CarOrdinal": 3419,
+    "Year": 2020,
+    "Make": "Toyota",
+    "Model": "Tundra TRD Pro"
   }
 ]
