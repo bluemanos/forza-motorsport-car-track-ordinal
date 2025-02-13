@@ -3527,6 +3527,12 @@
         "Make": "Mitsubishi",
         "Model": "Lancer Evolution IX MR"
     },
+    "3744": {
+        "CarOrdinal": 3744,
+        "Year": 2023,
+        "Make": "Formula Drift",
+        "Model": "#64 Forsberg Racing Nissan Z"
+    },
     "3745": {
         "CarOrdinal": 3745,
         "Year": 2020,
