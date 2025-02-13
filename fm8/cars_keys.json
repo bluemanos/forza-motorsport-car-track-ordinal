@@ -4103,6 +4103,12 @@
         "Make": "Audi",
         "Model": "RS 6"
     },
+    "422": {
+        "CarOrdinal": 422,
+        "Year": 2002,
+        "Make": "Acura",
+        "Model": "RSX Type-S"
+    },
     "423": {
         "CarOrdinal": 423,
         "Year": 1990,
