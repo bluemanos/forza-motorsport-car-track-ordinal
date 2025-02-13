@@ -143,6 +143,12 @@
         "Make": "Mercedes-Benz",
         "Model": "SL 65 AMG Black Series"
     },
+    "1093": {
+        "CarOrdinal": 1093,
+        "Year": 1960,
+        "Make": "Chevrolet",
+        "Model": "Corvette"
+    },
     "1104": {
         "CarOrdinal": 1104,
         "Year": 1970,
