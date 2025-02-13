@@ -4474,5 +4474,11 @@
     "Year": 1996,
     "Make": "Chevrolet",
     "Model": "Impala Super Sport"
+  },
+  {
+    "CarOrdinal": 1064,
+    "Year": 1979,
+    "Make": "Chevrolet",
+    "Model": "Camaro Z28"
   }
 ]

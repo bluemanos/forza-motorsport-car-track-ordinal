@@ -107,6 +107,12 @@
         "Make": "Dodge",
         "Model": "Charger Daytona HEMI"
     },
+    "1064": {
+        "CarOrdinal": 1064,
+        "Year": 1979,
+        "Make": "Chevrolet",
+        "Model": "Camaro Z28"
+    },
     "1065": {
         "CarOrdinal": 1065,
         "Year": 2002,
