@@ -1169,6 +1169,12 @@
         "Make": "Lamborghini",
         "Model": "Veneno"
     },
+    "2049": {
+        "CarOrdinal": 2049,
+        "Year": 1945,
+        "Make": "Willys",
+        "Model": "MB Jeep"
+    },
     "2051": {
         "CarOrdinal": 2051,
         "Year": 2014,
