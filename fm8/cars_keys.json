@@ -575,6 +575,12 @@
         "Make": "Audi",
         "Model": "RS 5 Coupe"
     },
+    "1418": {
+        "CarOrdinal": 1418,
+        "Year": 1995,
+        "Make": "BMW",
+        "Model": "M5"
+    },
     "1426": {
         "CarOrdinal": 1426,
         "Year": 2011,
