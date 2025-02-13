@@ -923,6 +923,12 @@
         "Make": "Ferrari",
         "Model": "#1 Scuderia Ferrari 312 T2"
     },
+    "2017": {
+        "CarOrdinal": 2017,
+        "Year": 1968,
+        "Make": "Abarth",
+        "Model": "595 esseesse"
+    },
     "2018": {
         "CarOrdinal": 2018,
         "Year": 2013,

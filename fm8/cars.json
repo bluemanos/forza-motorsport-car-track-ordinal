@@ -4012,5 +4012,11 @@
     "Year": 1980,
     "Make": "Abarth",
     "Model": "Fiat 131"
+  },
+  {
+    "CarOrdinal": 2017,
+    "Year": 1968,
+    "Make": "Abarth",
+    "Model": "595 esseesse"
   }
 ]
