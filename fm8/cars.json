@@ -4480,5 +4480,11 @@
     "Year": 1979,
     "Make": "Chevrolet",
     "Model": "Camaro Z28"
+  },
+  {
+    "CarOrdinal": 1291,
+    "Year": 1970,
+    "Make": "Chevrolet",
+    "Model": "El Camino Super Sport 454"
   }
 ]
