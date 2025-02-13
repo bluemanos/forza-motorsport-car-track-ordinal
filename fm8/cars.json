@@ -4630,5 +4630,11 @@
     "Year": 1963,
     "Make": "Volkswagen",
     "Model": "Beetle"
+  },
+  {
+    "CarOrdinal": 2151,
+    "Year": 1963,
+    "Make": "Volkswagen",
+    "Model": "Type 2 De Luxe"
   }
 ]
