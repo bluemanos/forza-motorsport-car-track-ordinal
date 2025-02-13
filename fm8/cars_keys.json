@@ -929,6 +929,12 @@
         "Make": "Volkswagen",
         "Model": "Scirocco 16v"
     },
+    "1615": {
+        "CarOrdinal": 1615,
+        "Year": 1969,
+        "Make": "FIAT",
+        "Model": "Dino 2.4 Coupe"
+    },
     "1620": {
         "CarOrdinal": 1620,
         "Year": 2012,
