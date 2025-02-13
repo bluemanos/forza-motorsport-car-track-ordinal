@@ -4510,5 +4510,11 @@
     "Year": 1957,
     "Make": "Chevrolet",
     "Model": "Bel Air"
+  },
+  {
+    "CarOrdinal": 2507,
+    "Year": 1955,
+    "Make": "Chevrolet",
+    "Model": "150 Utility Sedan"
   }
 ]
