@@ -4216,5 +4216,11 @@
     "Year": 2023,
     "Make": "Lamborghini",
     "Model": "Huracán Tecnica"
+  },
+  {
+    "CarOrdinal": 3673,
+    "Year": 2020,
+    "Make": "Lamborghini",
+    "Model": "SC20"
   }
 ]
