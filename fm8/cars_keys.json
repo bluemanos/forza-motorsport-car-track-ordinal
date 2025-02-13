@@ -1559,6 +1559,12 @@
         "Make": "Ford",
         "Model": "#02 Chip Ganassi Racing Riley Mk XXVI Daytona Prototype"
     },
+    "2412": {
+        "CarOrdinal": 2412,
+        "Year": 1957,
+        "Make": "BMW",
+        "Model": "Isetta 300 Export"
+    },
     "2417": {
         "CarOrdinal": 2417,
         "Year": 1973,
