@@ -4660,5 +4660,11 @@
     "Year": 1945,
     "Make": "Willys",
     "Model": "MB Jeep"
+  },
+  {
+    "CarOrdinal": 3874,
+    "Year": 2023,
+    "Make": "Lamborghini",
+    "Model": "SC63"
   }
 ]
