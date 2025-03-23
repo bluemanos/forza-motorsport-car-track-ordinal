@@ -4349,6 +4349,12 @@
         "Make": "BMW",
         "Model": "3.0 CSL #1"
     },
+    "3906": {
+        "CarOrdinal": 3906,
+        "Year": 2018,
+        "Make": "Lotus",
+        "Model": "Evora GT430"
+    },
     "391": {
         "CarOrdinal": 391,
         "Year": 2004,
