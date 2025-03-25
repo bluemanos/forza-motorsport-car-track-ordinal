@@ -3577,9 +3577,9 @@
     },
     "3529": {
         "CarOrdinal": 3529,
-        "Year": 2023,
-        "Make": "Lamborghini",
-        "Model": "Revuelto"
+        "Year": 1975,
+        "Make": "Nissan",
+        "Model": "Forsberg Racing Gold Leader Datzun 280Z"
     },
     "353": {
         "CarOrdinal": 353,
@@ -4348,6 +4348,12 @@
         "Year": 1976,
         "Make": "BMW",
         "Model": "3.0 CSL #1"
+    },
+    "3891": {
+        "CarOrdinal": 3891,
+        "Year": 2023,
+        "Make": "Lamborghini",
+        "Model": "Revuelto"
     },
     "3906": {
         "CarOrdinal": 3906,
