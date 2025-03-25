@@ -33,6 +33,10 @@ func readCars() (map[int]Car, []int) {
 	carsWithKeys := make(map[int]Car)
 	keys := make([]int, 0, len(cars))
 	for _, car := range cars {
+		_, ok := carsWithKeys[car.CarOrdinal]
+		if ok {
+			panic(fmt.Sprintf("double car ordinal %v\n", car.CarOrdinal))
+		}
 		carsWithKeys[car.CarOrdinal] = car
 		keys = append(keys, car.CarOrdinal)
 	}
