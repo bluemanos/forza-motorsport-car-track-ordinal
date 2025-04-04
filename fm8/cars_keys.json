@@ -1421,6 +1421,12 @@
         "Make": "Ferrari",
         "Model": "500 Mondial"
     },
+    "2188": {
+        "CarOrdinal": 2188,
+        "Year": 2014,
+        "Make": "Koenigsegg",
+        "Model": "One:1"
+    },
     "2189": {
         "CarOrdinal": 2189,
         "Year": 2015,
