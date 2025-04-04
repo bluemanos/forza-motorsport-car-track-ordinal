@@ -4702,5 +4702,11 @@
     "Year": 2014,
     "Make": "Koenigsegg",
     "Model": "One:1"
+  },
+  {
+    "CarOrdinal": 3774,
+    "Year": 2021,
+    "Make": "Lamborghini",
+    "Model": "Countach LPI 800-4"
   }
 ]
