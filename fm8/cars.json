@@ -4708,5 +4708,11 @@
     "Year": 2021,
     "Make": "Lamborghini",
     "Model": "Countach LPI 800-4"
+  },
+  {
+    "CarOrdinal": 2298,
+    "Year": 1978,
+    "Make": "Porsche",
+    "Model": "Racing 935/78 #43"
   }
 ]
