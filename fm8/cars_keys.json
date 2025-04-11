@@ -2903,6 +2903,12 @@
         "Make": "Mercedes-AMG",
         "Model": "GT3"
     },
+    "3198": {
+        "CarOrdinal": 3198,
+        "Year": 1980,
+        "Make": "Pantera",
+        "Model": "GTS"
+    },
     "320": {
         "CarOrdinal": 320,
         "Year": 1991,

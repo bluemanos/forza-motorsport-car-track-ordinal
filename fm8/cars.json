@@ -4732,5 +4732,11 @@
     "Year": 2019,
     "Make": "Audi",
     "Model": "R8 5.2"
+  },
+  {
+    "CarOrdinal": 3198,
+    "Year": 1980,
+    "Make": "Pantera",
+    "Model": "GTS"
   }
 ]
