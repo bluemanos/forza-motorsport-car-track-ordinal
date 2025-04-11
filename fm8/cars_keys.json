@@ -167,6 +167,12 @@
         "Make": "Mazda",
         "Model": "MX-5 Miata"
     },
+    "1117": {
+        "CarOrdinal": 1117,
+        "Year": 2019,
+        "Make": "Audi",
+        "Model": "R8 5.2"
+    },
     "1124": {
         "CarOrdinal": 1124,
         "Year": 1980,
