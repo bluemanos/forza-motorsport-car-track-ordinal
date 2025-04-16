@@ -463,6 +463,14 @@
         "Track": "Full",
         "Length_in_km": 16.42
     },
+    "83": {
+        "TrackOrdinal": 83,
+        "Circuit": "Fujimi Kaido",
+        "Location": "Japan",
+        "IOC_Code": "jp",
+        "Track": "Full Reverse",
+        "Length_in_km": 16.42
+    },
     "840": {
         "TrackOrdinal": 840,
         "Circuit": "Daytona Intl Speedway",
