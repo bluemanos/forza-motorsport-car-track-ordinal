@@ -4798,5 +4798,11 @@
     "Year": 2005,
     "Make": "Mitsubishi",
     "Model": "Sierra Enterprises Lancer Evolution Time Attack"
+  },
+  {
+    "CarOrdinal": 1229,
+    "Year": 2008,
+    "Make": "Mazda",
+    "Model": "Furai"
   }
 ]
