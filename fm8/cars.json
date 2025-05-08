@@ -4816,5 +4816,11 @@
     "Year": 2024,
     "Make": "Nissan",
     "Model": "Z NISMO"
+  },
+  {
+    "CarOrdinal": 3767,
+    "Year": 2022,
+    "Make": "Acura",
+    "Model": "NSX Type S"
   }
 ]
