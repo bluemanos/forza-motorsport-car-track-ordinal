@@ -4541,6 +4541,12 @@
         "Make": "Ford",
         "Model": "NASCAR Next Gen Mustang Dark Horse"
     },
+    "4026": {
+        "CarOrdinal": 4026,
+        "Year": 2024,
+        "Make": "Ford",
+        "Model": "Mustang GT3"
+    },
     "405": {
         "CarOrdinal": 405,
         "Year": 2000,
